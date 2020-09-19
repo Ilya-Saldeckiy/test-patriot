@@ -50,6 +50,7 @@ body{
     margin-bottom: 50px;
 }
 
+/* ----------slider & description------- */
 
 .description-caption{
     font-size: 22px;
@@ -126,6 +127,8 @@ body{
     font-size: 16px;
 }
 
+/*---------------- popup--------------- */
+
 #buy {
     display: none;
     animation-duration: 1.5s;
@@ -199,7 +202,7 @@ body{
       resize: none;
       margin-left: -195px;
   }
-
+/* ----------- media --------------*/
   @media(max-width:768px){
       .container{
           width: 600px;
